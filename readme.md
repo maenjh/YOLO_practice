@@ -4,13 +4,8 @@
 
 ## 프로젝트 다운로드
 
-1. 작업 폴더 생성 및 이동
-   ```bash
-   mkdir yolo_project
-   cd yolo_project
-   ```
 
-2. GitHub에서 프로젝트 클론
+1. GitHub에서 프로젝트 클론 및 폴더 이동
    ```bash
    git clone https://github.com/maenjh/YOLO_practice
    cd yolo_base
