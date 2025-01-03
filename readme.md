@@ -12,7 +12,7 @@
 
 2. GitHub에서 프로젝트 클론
    ```bash
-   git clone https://github.com/assistonia/yolo_base.git
+   git clone https://github.com/maenjh/YOLO_practice
    cd yolo_base
    ```
 
